@@ -1,4 +1,4 @@
-local UI = loadstring(game:HttpGetAsync(""))()
+local UI = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss"))()
 local Window = UI:Window("TaxiBoss")
 UI:Notification("Scrpt By:", "IMTOMAD#8434", "Okay!")
 local FarmingTab = Window:Tab("Farming")
