@@ -1,8 +1,7 @@
-
-
 if game.CoreGui:FindFirstChild("Hard Lumber The Easy Way Cracked by IMTOMAD <3") then
 	game.CoreGui["Hard Lumber The Easy Way Cracked by IMTOMAD <3"]:remove()
 end
+
 
 -- Objects
 
