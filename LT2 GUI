@@ -1,7 +1,7 @@
-if game.CoreGui:FindFirstChild("Hard Lumber The Easy Way Cracked by IMTOMAD <3") then
-	game.CoreGui["Hard Lumber The Easy Way Cracked by IMTOMAD <3"]:remove()
-end
 
+if game.CoreGui:FindFirstChild("by IMTOMAD <3") then
+	game.CoreGui["by IMTOMAD <3"]:remove()
+end
 
 -- Objects
 
@@ -53,10 +53,10 @@ local Credits = Instance.new("TextLabel")
 
 -- Properties
 
-HardLumberTheEasyWay.Name = "Hard Lumber The Easy Way Cracked by IMTOMAD <3"
+HardLumberTheEasyWay.Name = "by IMTOMAD <3"
 HardLumberTheEasyWay.Parent = CG
 
-local CGG = CG["Hard Lumber The Easy Way Cracked by IMTOMAD <3"]
+local CGG = CG["by IMTOMAD <3"]
 
 
 Main.Name = "Main"
@@ -97,7 +97,7 @@ TitleLabel.Position = UDim2.new(0, 5, 0, 0)
 TitleLabel.Size = UDim2.new(0, 200, 0, 35)
 TitleLabel.Font = Enum.Font.SourceSansBold
 TitleLabel.FontSize = Enum.FontSize.Size18
-TitleLabel.Text = "Hard Lumber The Easy Way Cracked by IMTOMAD#8434"
+TitleLabel.Text = "by IMTOMAD#8434"
 TitleLabel.TextColor3 = Color3.new(0.901961, 0.901961, 0.901961)
 TitleLabel.TextSize = 18
 TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
@@ -491,7 +491,7 @@ Title_2.BackgroundColor3 = Color3.new(1, 0.180392, 0.192157)
 Title_2.Size = UDim2.new(0, 325, 0, 25)
 Title_2.Font = Enum.Font.Highway
 Title_2.FontSize = Enum.FontSize.Size14
-Title_2.Text = "Hard Lumber The Easy Way Cracked by IMTOMAD#8434"
+Title_2.Text = "by IMTOMAD#8434"
 Title_2.TextColor3 = Color3.new(1, 1, 1)
 Title_2.TextSize = 14
 
