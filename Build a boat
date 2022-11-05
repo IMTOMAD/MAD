@@ -158,5 +158,3 @@ local function VZWBTQ_fake_script() -- UI.LocalScript
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(VZWBTQ_fake_script)()
-library:Keybind("Tab") game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "Important!", Text = "DADDY IMTOMAD#8434 WAS HERE", Button1 = "LMAO",Button2 = "Noob",     Duration = 20, })
