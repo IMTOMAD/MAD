@@ -1,5 +1,5 @@
 local UI = loadstring(game:HttpGet("https://pastebin.com/raw/QAwr1iuM"))()
-local Window = UI:Window("TaxiBoss")
+local Window = UI:Window("MadHub")
 UI:Notification("Scrpt By:", "IMTOMAD#8434", "Okay!")
 local FarmingTab = Window:Tab("Farming")
 FarmingTab:Toggle("Autofarm", false, function(arg)
