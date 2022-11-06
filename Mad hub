@@ -1,21 +1,17 @@
-repeat wait() until game:IsLoaded()
-local PlaceId = game.PlaceId
-if PlaceId == 7305309231 or PlaceId == 537413528 or PlaceId == 192800 or PlaceId == 13822889 or PlaceId == 8737602449
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BF")()
-elseif PlaceId == 7305309231 or PlaceId == 537413528 or PlaceId == 192800 or PlaceId == 13822889 or PlaceId == 8737602449 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/KL"))()
-elseif PlaceId == 7305309231 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss"))()
-elseif PlaceId == 8396586868 or PlaceId == 9432106399 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/AOPG")()
-elseif PlaceId == 914010731 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Ro-Ghoul")()
+if game.PlaceId == 7305309231 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss'))()
+elseif game.PlaceId == 537413528 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Build%20a%20boat"))()
+elseif game.PlaceId == 2866967438 then
+loadstring(game:HttpGet("Https://raw.githubusercontent.com/IMTOMAD/MAD/main/Fish"))()
+elseif game.PlaceId == 8737602449 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Donate"))()
+elseif game.PlaceId == 4490140733 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/My%20Restaurant"))()
+elseif game.PlaceId == 19280 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Work%20at%20a%20pizza"))()
+elseif game.PlaceId == 13822889 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/LT2%20GUI"))()
+elseif game.PlaceId == 6447798030 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Funky"))()
 end
-
-
-
-
-repeat wait() until game:IsLoaded()
-local PlaceId = game.PlaceId
-if PlaceId == 7305309231
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss"))()
