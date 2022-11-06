@@ -157,4 +157,4 @@ local function VZWBTQ_fake_script() -- UI.LocalScript
 	end
 	script.Parent.Active = true
 	script.Parent.Draggable = true
-end
+end  
