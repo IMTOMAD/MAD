@@ -14,4 +14,6 @@ elseif game.PlaceId == 13822889 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/LT2%20GUI"))()
 elseif game.PlaceId == 6447798030 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Funky"))()
+elseif game.PlaceId == 7809587478 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Longest%20answer%20wi"))()
 end
