@@ -17,3 +17,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Funk
 elseif game.PlaceId == 9992339729 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Longest%20answer%20wins"))()
 end
+
