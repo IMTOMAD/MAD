@@ -470,7 +470,7 @@ Username.Position = UDim2.new(0, 75, 0, 75)
 Username.Size = UDim2.new(0, 150, 0, 25)
 Username.Font = Enum.Font.SciFi
 Username.FontSize = Enum.FontSize.Size14
-Username.Text = "mohammadyas"
+Username.Text = "Mad"
 Username.TextSize = 14
 Username.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -481,7 +481,7 @@ Password.Position = UDim2.new(0, 75, 0, 115)
 Password.Size = UDim2.new(0, 150, 0, 25)
 Password.Font = Enum.Font.SciFi
 Password.FontSize = Enum.FontSize.Size14
-Password.Text = "mgh77fge"
+Password.Text = "MadMan"
 Password.TextSize = 14
 Password.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -496,7 +496,7 @@ Title_2.TextColor3 = Color3.new(1, 1, 1)
 Title_2.TextSize = 14
 
 CGG.Login.Login.MouseButton1Down:connect(function()
-	if Username.Text == "mohammadyas" and Password.Text == "mgh77fge" then
+	if Username.Text == "Mad" and Password.Text == "MadMan" then
 		CGG.Open.Visible = true
 		CGG.Login.Visible = false
 	else
