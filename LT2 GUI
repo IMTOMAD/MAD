@@ -685,3 +685,4 @@ end)
 CGG.Main.Teleports["The Den"].MouseButton1Down:connect(function()
 	CGG.Main.TpSelected.Text = "The Den"
 end)
+
