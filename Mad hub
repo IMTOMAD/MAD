@@ -6,8 +6,6 @@ elseif game.PlaceId == 2866967438 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Fish"))()
 elseif game.PlaceId == 8737602449 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Donate"))()
-elseif game.PlaceId == 4490140733 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/My%20Restaurant"))()
 elseif game.PlaceId == 19280 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Work%20at%20a%20pizza"))()
 elseif game.PlaceId == 13822889 then
