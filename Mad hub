@@ -1,18 +1,18 @@
 if game.PlaceId == 7305309231 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IMTOMAD/MAD/main/Taxi%20Boss%20key'))()
 elseif game.PlaceId == 537413528 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/4bee8bd6a6c61ca082b7a10afed500aea6a34aaf/Build%20a%20boat"))()
 elseif game.PlaceId == 2866967438 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Fish"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Fish%20sim%20key"))()
 elseif game.PlaceId == 8737602449 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Donate"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Pls%20donate%20Key"))()
 elseif game.PlaceId == 19280 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Work%20at%20a%20pizza"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Work%20at%20a%20pizza%20key"))()
 elseif game.PlaceId == 13822889 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/LT2%20GUI"))()
 elseif game.PlaceId == 6447798030 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Funky"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Funky%20key"))()
 elseif game.PlaceId == 9992339729 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Longest%20answer%20wins"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Longest%20answer%20wins%20key"))()
 end
 
