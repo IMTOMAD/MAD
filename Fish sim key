@@ -7,7 +7,7 @@ _G.KeyInput = "string"
 
 
 function MakeScriptHub()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Goal"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Fish"))()
 end
 
 function CorrectKeyNotification()
