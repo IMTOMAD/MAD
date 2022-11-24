@@ -303,7 +303,7 @@ shid = true
 game.Players.LocalPlayer.OnTeleport:Connect(function(State)
     if State == Enum.TeleportState.Started then
         if shid and queueteleport then
-            queueteleport("https://raw.githubusercontent.com/tip52/useless-projects/main/spook%20finder%20gui.lua")
+            queueteleport("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Spook%20finder")
         end
     end
 end)
