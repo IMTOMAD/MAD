@@ -16,5 +16,7 @@ elseif game.PlaceId == 9992339729 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Longest%20answer%20wins%20key"))()
 elseif game.PlaceId == 9281034297 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Goal%20key"))()
+elseif game.PlaceId == 3214114884 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Flag%20wars%20key")
 end
 
