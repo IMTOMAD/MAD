@@ -17,6 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Long
 elseif game.PlaceId == 9281034297 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Goal%20key"))()
 elseif game.PlaceId == 3214114884 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Flag%20wars%20key")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IMTOMAD/MAD/main/Flag%20wars%20key"))()
 end
 
